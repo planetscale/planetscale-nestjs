@@ -2,7 +2,7 @@
 
 # Overview
 
-> **Note:** This starter targets PlanetScale Vitess/MySQL. PlanetScale also offers managed PostgreSQL. For more information and examples, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+> **Note:** This starter targets PlanetScale Vitess/MySQL. PlanetScale also offers managed PostgreSQL. For more information, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
 
 This is a starter project for the Nest.js API and MySQL showing integration with PlanetScale.
 
